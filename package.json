@@ -1,0 +1,23 @@
+{
+    "engines": {
+        "npm": ">=7.19.0"
+    },
+    "name": "client-server-starter",
+    "version": "0.0.1",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/davidsilverthorn/client-server-starter.git"
+    },
+    "author": "David Silverthorn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/davidsilverthorn/client-server-starter/issues"
+    },
+    "homepage": "https://github.com/davidsilverthorn/client-server-starter#readme",
+    "workspaces": [
+        "packages/*"
+    ]
+}
