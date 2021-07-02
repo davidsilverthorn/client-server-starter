@@ -1,6 +1,6 @@
 # client-server-starter
 
-This project is intended to be a sensible starter for a Client + Server Web Application using Svelte, Routify, and Express.
+This project is intended to be a sensible monorepo starter for a Client + Server Web Application using Svelte, Routify, and Express. It uses NPM 7's workspace feature to neatly seperate Client and Server logic. NPM 7.19.0 or higher is required.
 
 ## Packages
 
