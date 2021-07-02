@@ -9,7 +9,6 @@
         "dev": "cross-env NODE_ENV=development run-p dev:*",
         "dev:build": "npm run dev -w client",
         "dev:serve": "npm run serve",
-        "postinstall": "npm run build",
         "serve": "npm run start -w server"
     },
     "repository": {
